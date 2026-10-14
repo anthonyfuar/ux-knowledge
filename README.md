@@ -12,7 +12,7 @@
 
 ---
 
-| 30 laws | 7 principles | 300+ patterns | 151 files |
+| 30 laws | 7 principles | 300+ patterns | 147 files |
 | --- | --- | --- | --- |
 | perception, memory, attention, decisions, movement, time | time, attention, agency, safety, trust, inclusion, honesty | 28 product surfaces, from forms to feeds to AI features | one topic per file; the router points an agent to 2 to 4 per task |
 
