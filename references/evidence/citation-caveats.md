@@ -155,7 +155,7 @@ Applies to: ../laws/cognitive-bias.md, ../laws/selective-attention.md, ../laws/p
 
 ## Related
 - stating-evidence.md: rules for quoting studies, numbers + origins; these caveats refine them.
-- ../reference/misquoted-claims.md: what sources originally claimed; misattributions + misdatings.
+- ../lookup/misquoted-claims.md: what sources originally claimed; misattributions + misdatings.
 - ../guides/law-misapplications.md: wrong uses of each law w/ correction.
 - ../laws/index.md: routes to all 30 UX law files, each w/ its own limits, pitfalls + evidence.
 - ../methods/thresholds-and-formulas.md: response-time limits, target sizes + formulas qualified by motor + time caveats.

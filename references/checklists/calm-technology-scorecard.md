@@ -107,5 +107,5 @@
 - ../patterns/privacy-data-and-security.md: data minimisation, consent, access + deletion, tracking; matches category 3.
 - ../principles/respectful.md: humane principle on well-being, attention + time scored here.
 - humane-design-audit.md: yes/no questions per humane principle + AI and automation.
-- ../reference/humane-design-ideas.md: key humane-design ideas by theme, incl. calm technology.
+- ../lookup/humane-design-ideas.md: key humane-design ideas by theme, incl. calm technology.
 - [Usability review checklist](usability-review.md): usability-side yes/no questions, each tied to UX law.

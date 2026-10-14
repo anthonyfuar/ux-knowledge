@@ -9,10 +9,10 @@
 ## Steps
 1. **Problem.** State observed problem, or metric showing it.
 2. **Law.** Name law, year first described + one-sentence mechanism, from law's own file (find via [index of the 30 UX laws](../laws/index.md)).
-   - Verify names + dates in law file's origin facts + reference files: ../reference/misquoted-claims.md (attribution cautions), ../reference/timeline.md (foundational works).
+   - Verify names + dates in law file's origin facts + reference files: ../lookup/misquoted-claims.md (attribution cautions), ../lookup/timeline.md (foundational works).
    - Check law not stretched past what it explains → law-misapplications.md.
 3. **Evidence.** Cite study facts + product cases exactly as given in law file's `Evidence` section + ../evidence/product-cases.md.
-   - Chronology of cited studies + cases → ../reference/timeline.md.
+   - Chronology of cited studies + cases → ../lookup/timeline.md.
    - Label support kind honestly: lab study, animal study, humorous essay, engineering guideline.
    - Rules for citing evidence + its known traps → ../evidence/stating-evidence.md, ../evidence/citation-caveats.md.
 4. **Change + metric.** State change, metric it should move + how research will confirm it.

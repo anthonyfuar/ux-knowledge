@@ -114,5 +114,5 @@ Endpoint as argument pictures it: people merged into one collective apparatus wh
 - ../patterns/ai-and-automated-features.md: generated answers, sources, uncertainty.
 - ../patterns/search-and-results.md: usability side; results pages holding generated answers + ad slots.
 - filter-bubbles-and-polarization.md: neighbouring evidence on what personalized ranking does to belief + discourse.
-- ../reference/humane-design-ideas.md: key ideas on surveillance + persuasion.
+- ../lookup/humane-design-ideas.md: key ideas on surveillance + persuasion.
 - citation-caveats.md: traps + limits to check before quoting these figures.

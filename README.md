@@ -56,29 +56,30 @@ That's it. The skill loads by itself when a task touches a screen, a flow, a pro
 
 ```
 ux-knowledge/
-├── SKILL.md        router: start from the situation, full catalog
-├── guides/         how to design, review, defend a decision, answer an ethics question
-├── laws/           30 laws, one file each
-├── principles/     7 humane-design principles
-├── patterns/       28 product surfaces
-├── ethics/         deceptive patterns, attention hijacks, influence vs manipulation
-├── checklists/     usability review, humane-design audit, interruption rules, calm-tech scorecard
-├── methods/        33 methods: metrics, foresight, critique, arguing a case
-├── evidence/       findings by theme, each with its caveats
-└── reference/      glossary, timeline, misquoted claims, humane-design ideas
+├── SKILL.md          router: start from the situation, full catalog
+└── references/
+    ├── guides/       how to design, review, defend a decision, answer an ethics question
+    ├── laws/         30 laws, one file each
+    ├── principles/   7 humane-design principles
+    ├── patterns/     28 product surfaces
+    ├── ethics/       deceptive patterns, attention hijacks, influence vs manipulation
+    ├── checklists/   usability review, humane-design audit, interruption rules, calm-tech scorecard
+    ├── methods/      33 methods: metrics, foresight, critique, arguing a case
+    ├── evidence/     findings by theme, each with its caveats
+    └── lookup/       glossary, timeline, misquoted claims, humane-design ideas
 ```
 
 | Folder | What it holds | The agent opens it when |
 | --- | --- | --- |
-| `guides/` | Step-by-step flows, a symptom-to-fix index, common law misapplications | It needs to know where to start |
-| `laws/` | Each law: one line, when it applies and when not, decision rules, why it works, evidence, misreadings, check questions, symptoms and fixes | Applying, explaining or checking one law |
-| `principles/` | Each principle: commitments to keep and to avoid, key concepts, audit questions | A decision touches time, attention, agency, safety or trust |
-| `patterns/` | 300+ entries: when, do, avoid, why, plus an example | Designing or fixing a specific surface |
-| `ethics/` | Two dozen deceptive patterns with honest alternatives, 10 attention hijacks | A persuasive lever is on the table |
-| `checklists/` | Ready-to-run reviews tied to laws and principles | Running a review |
-| `methods/` | Premortems, counter-metrics, misuse cases, thresholds and formulas | Planning, measuring or arguing |
-| `evidence/` | Findings by year, kind of study and sample, with design consequences and caveats | A claim is about to be quoted |
-| `reference/` | 200+ glossary terms, a timeline, claims people get wrong | Dating, defining or checking a claim |
+| `references/guides/` | Step-by-step flows, a symptom-to-fix index, common law misapplications | It needs to know where to start |
+| `references/laws/` | Each law: one line, when it applies and when not, decision rules, why it works, evidence, misreadings, check questions, symptoms and fixes | Applying, explaining or checking one law |
+| `references/principles/` | Each principle: commitments to keep and to avoid, key concepts, audit questions | A decision touches time, attention, agency, safety or trust |
+| `references/patterns/` | 300+ entries: when, do, avoid, why, plus an example | Designing or fixing a specific surface |
+| `references/ethics/` | Two dozen deceptive patterns with honest alternatives, 10 attention hijacks | A persuasive lever is on the table |
+| `references/checklists/` | Ready-to-run reviews tied to laws and principles | Running a review |
+| `references/methods/` | Premortems, counter-metrics, misuse cases, thresholds and formulas | Planning, measuring or arguing |
+| `references/evidence/` | Findings by year, kind of study and sample, with design consequences and caveats | A claim is about to be quoted |
+| `references/lookup/` | 200+ glossary terms, a timeline, claims people get wrong | Dating, defining or checking a claim |
 
 ## How it works
 

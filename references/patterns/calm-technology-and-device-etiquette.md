@@ -138,4 +138,4 @@
 - ../laws/selective-attention.md: usability-side law; limited attention peripheral signals work within.
 - departing-from-convention.md: usability side; conventions → interface recedes; opt-in, reversible redesign rollouts.
 - privacy-data-and-security.md: ambient, always-on collection by listening, watching / recording devices.
-- ../reference/humane-design-ideas.md: reference; incl. calm technology.
+- ../lookup/humane-design-ideas.md: reference; incl. calm technology.

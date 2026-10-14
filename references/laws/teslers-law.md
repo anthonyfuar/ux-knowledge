@@ -245,5 +245,5 @@ Tesler's Law turned against people:
 - ../patterns/ai-and-automated-features.md: humane bounds on automation; applies law.
 - ../patterns/defaults-and-choice-architecture.md: humane bounds on system-carried defaults.
 - ../patterns/complexity-management.md: further reading on humane bound; applies law.
-- ../reference/timeline.md: lists 2006 interaction-design book holding best-known account of law.
+- ../lookup/timeline.md: lists 2006 interaction-design book holding best-known account of law.
 - ../principles/empowering.md, ../principles/intentional.md: principles bounding it.

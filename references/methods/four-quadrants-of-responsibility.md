@@ -39,5 +39,5 @@ Hypothetical: grocery-delivery app adds "nearest store" sort.
 - ../evidence/unintended-consequences.md: evidence on products' second-order effects at scale, for society column.
 - ../ethics/ethics-review-workflow.md: where four-quadrant walk sits in review before build.
 - ../checklists/usability-review.md: usability side; reviews product-level, one-person cell (human-centred usability).
-- ../reference/humane-design-ideas.md: reference entry: ideas behind this grid + related ones.
+- ../lookup/humane-design-ideas.md: reference entry: ideas behind this grid + related ones.
 - ../principles/intentional.md: sets quick win against later + second-hand effects.

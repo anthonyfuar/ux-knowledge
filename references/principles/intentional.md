@@ -41,7 +41,7 @@ Each has own method file; process patterns assuming them → ../methods/process-
 |Gate decisions w/ three-gate check (three gates)|../methods/three-gate-check.md|
 |Second-order thinking + futures wheel|../methods/second-order-thinking.md, ../methods/futures-wheel.md|
 |Premortem before launch|../methods/premortem.md|
-|Consequence scanning as recurring ritual, w/ anti-goals|ritual → ../reference/organizations-and-toolkits.md; worst cases → anti-goals → ../methods/misuse-case-brainstorming.md|
+|Consequence scanning as recurring ritual, w/ anti-goals|ritual → ../lookup/organizations-and-toolkits.md; worst cases → anti-goals → ../methods/misuse-case-brainstorming.md|
 
 ## Guidance held here (no pattern entry)
 

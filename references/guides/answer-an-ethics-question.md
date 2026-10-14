@@ -59,10 +59,10 @@ Pull comparable historical cases + research findings from evidence files.
 
 |To check|Look in|
 |---|---|
-|Thinker behind idea|../reference/humane-design-ideas.md|
-|Book / foundational work|../reference/timeline.md|
-|Organization|../reference/organizations-and-toolkits.md|
-|Glossary term|5 glossary files, alphabetical: ../reference/glossary-a-c.md, ../reference/glossary-d-f.md, ../reference/glossary-g-m.md, ../reference/glossary-n-p.md, ../reference/glossary-r-z.md|
+|Thinker behind idea|../lookup/humane-design-ideas.md|
+|Book / foundational work|../lookup/timeline.md|
+|Organization|../lookup/organizations-and-toolkits.md|
+|Glossary term|5 glossary files, alphabetical: ../lookup/glossary-a-c.md, ../lookup/glossary-d-f.md, ../lookup/glossary-g-m.md, ../lookup/glossary-n-p.md, ../lookup/glossary-r-z.md|
 
 ## Related
 - core-stance.md: conflict ranking, rights over time + effort, over delight.

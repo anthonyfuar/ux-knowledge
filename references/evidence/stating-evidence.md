@@ -77,13 +77,13 @@ Humane-design evidence = research, statistics, historical cases + expert argumen
 
 ## Before quoting: check
 1. citation-caveats.md: contested numbers, misattributions + limits of each evidence body.
-2. ../reference/misquoted-claims.md: what sources truly claimed; common misattributions + misdatings.
-3. ../reference/timeline.md: founding papers + books by year, for getting origin + its year right.
+2. ../lookup/misquoted-claims.md: what sources truly claimed; common misattributions + misdatings.
+3. ../lookup/timeline.md: founding papers + books by year, for getting origin + its year right.
 
 ## Related
 - citation-caveats.md: check before quoting any figure.
-- ../reference/misquoted-claims.md: common misattributions + misdatings.
-- ../reference/timeline.md: origins by year.
+- ../lookup/misquoted-claims.md: common misattributions + misdatings.
+- ../lookup/timeline.md: origins by year.
 - ../laws/index.md: 30 UX laws; each law file holds its Evidence section.
 - ../laws/fittss-law.md: one of three laws singled out as predictive models.
 - ../laws/hicks-law.md: predictive model; two origins, 1952 + 1953.
