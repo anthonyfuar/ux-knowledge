@@ -5,7 +5,7 @@ Key concepts, claims + dates of humane design, by theme. Check here before citin
 ## Use when
 - Before citing humane-design idea, claim or date.
 - Six themes: calm technology + attention · persuasion, deception + defaults · surveillance, data + algorithms · augmentation, empowerment + user-friendliness · inclusion + accessibility · ethics, responsibility + foresight.
-- Reading on these ideas → timeline.md (foundational works). Vocabulary → five glossary files: glossary-a-c.md, glossary-d-f.md, glossary-g-m.md, glossary-n-p.md, glossary-r-z.md.
+- Reading on these ideas → timeline.md (foundational works). Vocabulary → glossary.md.
 
 ## Calm technology + attention
 |Idea|What it holds|
@@ -149,4 +149,4 @@ Key concepts, claims + dates of humane design, by theme. Check here before citin
 - ../ethics/deceptive-patterns.md: named deceptive patterns + honest alternative to each.
 - [Principles index](../principles/index.md): seven humane-design principles side by side w/ key practices.
 - ../laws/index.md: usability side: all 30 laws w/ core idea + design rule; each law's origin in own file.
-- glossary-a-c.md: first of five glossary files defining vocabulary used here.
+- glossary.md: defines vocabulary used here.

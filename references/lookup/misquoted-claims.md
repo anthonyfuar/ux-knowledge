@@ -12,7 +12,7 @@ What each UX law/finding often gets misquoted, misdated or misread as vs what re
 2. Match year to specific claim, never to body of work it gets loosely credited to.
 3. If source = essay, single field study or mostly animal work → say so next to claim.
 4. If wording unverified → paraphrase constraint; never quote as verbatim saying.
-5. Check year against timeline.md; pick exact term in glossary-a-c.md (first of five glossary files).
+5. Check year against timeline.md; pick exact term in glossary.md.
 
 ## Bias, attention + remembered experience
 Rule: several separate claims often credited loosely to one body of work, yet carry different years → match year to claim cited.
@@ -85,5 +85,5 @@ Rule: keep Common Region (items enclosed by shared boundary/fill) distinct from 
 - ../evidence/stating-evidence.md: rules for quoting studies, numbers + origins accurately.
 - ../evidence/citation-caveats.md: contested numbers, misattributions + limits of each body of evidence.
 - ../guides/defend-a-decision.md: rationale from law, origin year, mechanism, evidence + metric.
-- glossary-a-c.md: first of five glossary files, for picking precise term.
+- glossary.md: for picking precise term.
 - humane-design-ideas.md: humane-design side: each idea's line of thought.

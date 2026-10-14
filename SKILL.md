@@ -66,7 +66,7 @@ description: Provides a consultable UX knowledge base (knowledge to apply, not a
 |Accessibility + inclusion|[Inclusive and accessible design](references/patterns/inclusive-and-accessible-design.md)|[Inclusive](references/principles/inclusive.md) / [thresholds + formulas](references/methods/thresholds-and-formulas.md)|
 |Defending decision to stakeholders|[Defend a decision](references/guides/defend-a-decision.md)|[stakeholder arguments](references/methods/stakeholder-arguments.md)|
 |About to cite number, study or case|law file's `Evidence` section, or theme file in `evidence/`|[stating evidence](references/evidence/stating-evidence.md); [citation caveats](references/evidence/citation-caveats.md)|
-|When was something shown/claimed; what term means|[Misquoted claims](references/lookup/misquoted-claims.md)|[timeline](references/lookup/timeline.md) / glossary: [A-C](references/lookup/glossary-a-c.md), [D-F](references/lookup/glossary-d-f.md), [G-M](references/lookup/glossary-g-m.md), [N-P](references/lookup/glossary-n-p.md), [R-Z](references/lookup/glossary-r-z.md)|
+|When was something shown/claimed; what term means|[Misquoted claims](references/lookup/misquoted-claims.md)|[timeline](references/lookup/timeline.md) / [glossary](references/lookup/glossary.md)|
 |Response-time limit, target size or formula|[Thresholds and formulas](references/methods/thresholds-and-formulas.md)|[Doherty Threshold](references/laws/doherty-threshold.md) / [Fitts's Law](references/laws/fittss-law.md)|
 |Writing up findings|[Write a finding](references/guides/write-a-finding.md)|[common mistakes](references/guides/common-mistakes.md)|
 
@@ -298,11 +298,7 @@ Arguing and team practice:
 - [Timeline](references/lookup/timeline.md): date order of research behind laws + foundational works of humane design, by year + kind of work.
 - [Humane-design ideas](references/lookup/humane-design-ideas.md): key concepts, claims + dates of humane design by theme (calm technology, persuasion, surveillance, augmentation, inclusion, ethics).
 - [Organizations and toolkits](references/lookup/organizations-and-toolkits.md): groups, toolkits, frameworks + movements working on humane technology, picked by need.
-- [Glossary A-C](references/lookup/glossary-a-c.md): terms A to C.
-- [Glossary D-F](references/lookup/glossary-d-f.md): terms D to F.
-- [Glossary G-M](references/lookup/glossary-g-m.md): terms G to M.
-- [Glossary N-P](references/lookup/glossary-n-p.md): terms N to P.
-- [Glossary R-Z](references/lookup/glossary-r-z.md): terms R to Z.
+- [Glossary](references/lookup/glossary.md): usability + humane-design terms, A to Z.
 
 ## Notation
 One shared notation across every file.
